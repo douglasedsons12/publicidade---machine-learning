@@ -1,6 +1,6 @@
 # Previsão de Performance de Campanhas de Publicidade
 
-Este projeto utiliza **Machine Learning** (Random Forest) para prever o número de conversões de campanhas de marketing com base no investimento e canal utilizado. 
+Este projeto utiliza **Machine Learning** (Random Forest) para prever o número de clientes captados durante campanhas de marketing com base no investimento, canal utilizado e duração, em dias.
 
 
 ## Resultados do Modelo
@@ -12,3 +12,4 @@ Este projeto utiliza **Machine Learning** (Random Forest) para prever o número 
 
 
 Conforme analisado no gráfico, as variáveis **Spend**,**duration_days** e **clicks** são os fatores mais decisivos para o sucesso das conversões.
+
