@@ -5,9 +5,10 @@ Este projeto utiliza **Machine Learning** (Random Forest) para prever o número 
 
 ## Resultados do Modelo
 - **R² Score:** 71% - O modelo tem poder preditivo de 70% dos valores. 
-- **Erro Médio (MAE):** 54 conversões.
+- **Erro Médio (MAE):** 54 conversões - Indica a margem de erro do modelo, para mais ou para menos. 
 
-## 📈 Insights Principais
-![Importância das Variáveis](importancia_variaveis_white.png)
+##  Insights Principais
+![Importância das Variáveis](importancia_das_variaveis.png)
 
-Como demonstrado no gráfico acima, o volume de **Cliques** e o **Gasto (Spend)** são os fatores mais decisivos para o sucesso das conversões.
+
+Conforme analisado no gráfico, as variáveis **Spend**,**duration_days** e **clicks** são os fatores mais decisivos para o sucesso das conversões.
